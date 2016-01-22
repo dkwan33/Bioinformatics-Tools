@@ -1,5 +1,5 @@
 # Perl-Bioinformatics-Tools
-Tools for various practical Bioinformatics Applications
+Tools for various practical Bioinformatics applications
 
 ---gbk_to_fasta.pl---
 
