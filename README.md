@@ -21,7 +21,7 @@ Tools for various practical Bioinformatics Applications
 
 ---clust_tree.pm--- (ClusteringTree)
 
-  Contains the ClusteringTree class library, which handles operations on clustering trees. (Used in clust_algorithms.pm)
+  Contains the ClusteringTree class library, which handles operations on clustering trees. (Used in ClusteringAlg)
 
 ---testcases_main.pl---
 
